@@ -1,5 +1,5 @@
 import axios from "axios";
-import { env } from "process";
+
 import { OrderPayload } from "./Orders/types";
 
 const API_URL = 'http://localhost:8080';

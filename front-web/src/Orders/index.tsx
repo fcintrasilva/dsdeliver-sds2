@@ -5,7 +5,7 @@ import Footer from '../Footer';
 import { checkIsSelected } from './helpers';
 import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
-import ProductCard from './ProductCard';
+
 import ProductsList from './ProductsList';
 import StepsHeader from './stepsHeader';
 import './styles.css';
